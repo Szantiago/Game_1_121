@@ -1,0 +1,46 @@
+.cuadrado
+{
+	display: inline-block;
+	/*background-color: rgba(0, 0, 0, 0.05);*/
+	margin-top: 2px;
+	margin-left: 5px;
+  padding-top: 5px;
+	padding-left: 1px;
+	padding-right: 1px;
+	border:2px solid yellow;
+	border-color: black;
+  text-align: center;
+  font-weight:bold;
+  font-size: 22px;
+	cursor: pointer;
+}
+#crono
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+body
+{
+  background-color: rgba(0, 0, 0, 0.09);
+	/*background: url("//www.free-patterns.info/wp-content/uploads/2015/11/subtle-tight-lines-grey-v1123715.png");*/
+}
+
+.boton {
+  background: #68939e;
+  background-image: -webkit-linear-gradient(top, #7eaa90, #c7d8e3);
+  background-image: linear-gradient(to bottom, #7eaa90, #c7d8e3);
+  border-radius: 10px;
+  font-family: Arial;
+  color: rgba(123, 145, 142, 1);
+  font-size: 15px;
+  padding: 6px 16px 7px 16px;
+  border: 1px solid #000000;
+  text-decoration: none;
+}
+
+.boton:hover {
+  background: #879ead;
+  background-image: -linear-gradient(top, #879ead, #a6aaad);
+  background-image: linear-gradient(to bottom, #879ead, #a6aaad);
+  text-decoration: none;
+}
