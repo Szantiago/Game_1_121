@@ -138,7 +138,7 @@ $(function()
 //Funcion para mostrar un sweetalert cuando termina el juego, con su puntuacion, Ultimo numero encontrado y el tiempo que ha tardado
   function finJuego()
   {
-    ion.sound.play("Message-alert-tone");
+    ion.sound.play("Message-alert-tone"); $(".cuadrado").unbind();
     $("#obj").text("Ultimo # encontrado: "+(aciertos.length));
     clearInterval(inter);
     swal({
