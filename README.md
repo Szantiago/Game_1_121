@@ -109,7 +109,7 @@ tim3;
     return numAleatorios;
   })(cantCir);
   ```
-- Funcion para llenar el array que contiene los aciertos del usuairo
+- Funcion para llenar el array que contiene los aciertos del usuarios 
 ```javascript
   //Funcion para determinar si el valor a ingresar en el array de aciertos ya se encuentra
     function aciertoRepetido(n) {
@@ -155,5 +155,5 @@ $(".cuadrado").click(function cuadrado(e) //Evento click de los cuadros de la ta
 ```
 
 ###Autores
- Santiago Lozano
- Leidy Arevalo
+- Santiago Lozano
+- Leidy Arevalo
