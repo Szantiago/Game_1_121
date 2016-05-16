@@ -14,7 +14,7 @@ Se le muestra al usuario una tabla con numeros distribuidos de manera aleatoria,
 
 
 #Link del juego 
-[Absolute README link](http://szantiago.github.io/Game_1_121/)
+[link](http://szantiago.github.io/Game_1_121/)
 #Desarrollo (funciones principales)
 El desarrollo se realizo con javascript, JQuery V1.11.3, css.
 Se utilizo ion.sound para generar sonidos en los botones y figuras del juego, sweetalert2 para modificar la apariencia del alert
